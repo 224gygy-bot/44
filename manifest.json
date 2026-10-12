@@ -1,0 +1,17 @@
+{
+  "name": "꼬마 장기 학교",
+  "short_name": "꼬마 장기",
+  "description": "유치원생부터 초등 3학년까지, 말 하나씩 배우는 어린이 장기",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E4F0EA",
+  "theme_color": "#15774A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
