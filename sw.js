@@ -1,6 +1,6 @@
 // 꼬마 장기 학교 — 오프라인용 서비스 워커
 // 게임을 고친 뒤 다시 올릴 때는 아래 숫자를 하나 올려 주세요 (v1 → v2).
-const CACHE = 'kkoma-janggi-v1';
+const CACHE = 'kkoma-janggi-v2';
 const CORE = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
